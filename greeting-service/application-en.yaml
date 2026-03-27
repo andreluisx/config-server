@@ -16,5 +16,5 @@ management:
           - "*"
 
 greeting-service:
-  greeting: "HIII"
+  greeting: "Hello My Friend"
   default-value: "World"
